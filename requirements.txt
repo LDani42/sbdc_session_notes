@@ -1,0 +1,4 @@
+streamlit==1.30.0  # or your preferred version
+assemblyai==0.17.0  # or the latest version
+anthropic==0.8.1   # for Claude API integration
+pandas==2.0.3      # if you're using pandas
